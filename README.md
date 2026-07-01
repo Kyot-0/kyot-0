@@ -1,51 +1,55 @@
-## Hi there 👋
+# João Victor 👨‍💻
 
-Desenvolvedor Web focado na criação de sites, landing pages responsivas e sistemas simples para pequenos negócios.
+Web Developer focused on creating responsive websites, landing pages, and simple web systems for businesses.
 
-Tenho experiência prática com projetos voltados para apresentação de serviços, organização de processos e soluções web funcionais. Meu objetivo é desenvolver interfaces limpas, rápidas e fáceis de usar, sempre pensando na experiência do usuário e nas necessidades do negócio.
+I work on projects designed to present services, organize processes, and deliver functional web solutions. My goal is to build clean, fast, and easy-to-use interfaces, always considering user experience and business needs.
+# 🚀 Technologies
 
-🚀 Tecnologias
-HTML
-CSS
-JavaScript
-React
-Next.js
-Supabase
-Git e GitHub
-Vercel
+* HTML
+* CSS
+* JavaScript
+* React
+* Next.js
+* Supabase
+* Git and GitHub
+* Vercel
 
-💼 Áreas de atuação
-Sites institucionais
-Landing pages
-Páginas responsivas
-Interfaces para pequenos sistemas
-Sistemas básicos de cadastro
-Controle de estoque
-Sistemas de orçamento
-Integração com banco de dados
-Publicação de projetos web
-📌 Projetos em destaque
-Landing Page para Assistência Técnica
+# 💼 Areas of Work
 
-Página responsiva desenvolvida para apresentar serviços, localização, horário de atendimento e contato direto pelo WhatsApp.
+* Business websites
+* Landing pages
+* Responsive pages
+* Interfaces for small systems
+* Basic registration systems
+* Inventory control
+* Budget and quotation systems
+* Database integration
+* Web project deployment
 
-Sistema de Orçamentos
+# 📌 Featured Projects
 
-Sistema web para cadastro, edição e acompanhamento de orçamentos, com foco em organização e praticidade.
+## Technical Assistance Landing Page
 
-Controle de Estoque Web
+Responsive page developed to present services, location, business hours, and direct WhatsApp contact.
 
-Sistema básico para gerenciamento de produtos, quantidades e movimentações.
+## Quotation Management System
 
-Sistema de Garantias
+Web system for registering, editing, and tracking quotations, focused on organization and practicality.
 
-Projeto voltado ao controle de garantias, status de atendimento e organização de informações operacionais.
+## Web Inventory Control
 
-🎯 Objetivo profissional
+Basic system for managing products, quantities, and inventory movements.
 
-Desenvolver soluções web funcionais, organizadas e acessíveis para empresas e profissionais que precisam melhorar sua presença digital ou otimizar processos internos.
+## Warranty Management System
 
-📫 Contato
-E-mail: joaovictordasilvasoares223@gmail.com
-LinkedIn: em breve
-Portfólio: em breve
+Project focused on controlling warranties, service status, and operational information.
+
+# 🎯 Professional Goal
+
+To develop functional, organized, and accessible web solutions for businesses and professionals who need to improve their digital presence or optimize internal processes.
+
+# 📫 Contact
+
+* Email: [joaovictordasilvasoares223@gmail.com](mailto:joaovictordasilvasoares223@gmail.com)
+* LinkedIn: Coming soon
+* Portfolio: Coming soon
